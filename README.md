@@ -16,7 +16,6 @@ A classic Tic-Tac-Toe game built with **React**, featuring smooth animations and
 
 ![XO-Game](XO.png)
 
-![Xo-Game Animation](https://images.app.goo.gl/f8mqwpDrZgmQyzsQ9)
 
 ---
 
@@ -28,7 +27,6 @@ Test your typing speed and accuracy with this **Typing Speed Game**! Built with 
 
 ![XO-Game](Speed.png)
 
-![Typing Speed Game Animation](https://images.app.goo.gl/YdHcA1TZqE4NggaT8)
 
 ---
 
