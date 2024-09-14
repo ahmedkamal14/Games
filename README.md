@@ -13,10 +13,10 @@ A classic Tic-Tac-Toe game built with **React**, featuring smooth animations and
 
 - **[Live Preview](https://ahmedkamal14.github.io/XO-Game/)**
 - **[Repository](https://github.com/ahmedkamal14/XO-Game)**
-- 
+
 ![XO-Game](XO.png)
 
-![Xo-Game Animation](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+![Xo-Game Animation](https://images.app.goo.gl/f8mqwpDrZgmQyzsQ9)
 
 ---
 
@@ -28,7 +28,7 @@ Test your typing speed and accuracy with this **Typing Speed Game**! Built with 
 
 ![XO-Game](Speed.png)
 
-![Typing Speed Game Animation](https://media.giphy.com/media/l3vR6as6Zg6nxjkUQ/giphy.gif)
+![Typing Speed Game Animation](https://images.app.goo.gl/YdHcA1TZqE4NggaT8)
 
 ---
 
